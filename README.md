@@ -813,8 +813,7 @@ If you find this project useful for learning or portfolio development, consider 
 
 | Resource             | Link                                             |
 | -------------------- | ------------------------------------------------ |
-| 📂 GitHub Repository | https://github.com/akshayabhi0005-web/NetBanking |
-| 🌐 Live Demo         | **Add deployed URL**                             |
+| 🌐 Live Demo         | https://netbanking-ib5z.onrender.com             |                              |
 | 🚀 Deployment        | Render / Vercel                                  |
 | 📖 Documentation     | This README                                      |
 
