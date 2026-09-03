@@ -4,7 +4,7 @@
   "private": true,
   "description": "SecureBank - Production Quality Simulated Indian Internet Banking Portal",
   "scripts": {
-    "install:all": "npm install && npm install --prefix server && npm install --prefix client",
+    "install:all": "npm install --include=dev && npm install --prefix server --include=dev && npm install --prefix client --include=dev",
     "dev:server": "npm run dev --prefix server",
     "dev:client": "npm run dev --prefix client",
     "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
