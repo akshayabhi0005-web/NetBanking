@@ -793,16 +793,6 @@ All rights reserved.
 
 ---
 
-# 👨‍💻 Author
-
-**Akshay N Abhi**
-
-GitHub:
-
-https://github.com/akshayabhi0005-web
-
----
-
 # ⭐ Support
 
 If you find this project useful for learning or portfolio development, consider giving the repository a ⭐ on GitHub.
