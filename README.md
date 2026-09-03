@@ -13,9 +13,6 @@ A full-stack simulated Indian Internet Banking application built for **education
 🚀 **Live Application:**
 https://netbanking-ib5z.onrender.com
 
-📂 **GitHub Repository:**
-https://github.com/akshayabhi0005-web/NetBanking
-
 ---
 
 ## 📌 About The Project
